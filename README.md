@@ -9,6 +9,7 @@ This is an example, on ChestMNIST dataset, of the attack presented in https://do
 - numpy
 - pandas
 - matplotlib
+- sklearn
 
 ## Repository structure
 
